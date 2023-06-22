@@ -10,9 +10,9 @@ particular relevance to them (You do not need to categorize the stakeholders. Do
 include the systems development team).
 3. Make assumptions about where information in the case is incomplete and where
 WPE can be improved around a given case. Discuss the proposed assumptions.
-4.(a) List and briefly describe the main functional requirements for the WPE.
+4. (a) List and briefly describe the main functional requirements for the WPE.
 (b) List and briefly describe the main nonfunctional requirements for the WPE.
-5.(a) Use the User Goal technique to develop a list of use cases for the WPE.
+5. (a) Use the User Goal technique to develop a list of use cases for the WPE.
 Present your list in a table that includes the participating actors, use case name
 and brief use case description.
 (b) Use the Event Decomposition technique to identify any additional use cases
